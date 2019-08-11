@@ -1,0 +1,4 @@
+./parse_log.sh  /home/xuefeng/project/DOOBNet-master/examples/doobnet/PIOD/log/.log
+
+
+./plot_training_log.py.example 0 save.png /home/xuefeng/project/DOOBNet-master/examples/doobnet/PIOD/log/.log
