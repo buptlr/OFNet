@@ -11,6 +11,14 @@ The Data Preparation and Evaluation are following Guoxia Wang with his DOOBNet(h
 ### Citation
 
 If you find OFNet useful in your research, please consider citing:
+```
+@inproceedings{Lu2019Occlusion,
+  Title = {Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning},
+  Author = {Rui Lu, Feng Xue, Menghan Zhou, Anlong Ming, Yu Zhou},
+  Booktitle = {ICCV},
+  Year = {2019}
+}
+```
 
 
 ## Data Preparation
