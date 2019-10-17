@@ -101,11 +101,11 @@ cd $OFNET_ROOT/examples/ofnet/PIOD
 
 ./train.sh
 ```
-When training completed, you need to modify `model = '../models/ofnet_piod.caffemodel'` in `deploy_ofnet_piod.py` and then run `python deploy_ofnet_piod.py` to get the results on PIOD testing dataset. For comparation, you can also download our trained model from [here](https://pan.baidu.com/s/1FZJOZCLXysv1krcR3DEvqg). (code: y4b6).
+When training completed, you need to modify `model = '../models/ofnet_piod.caffemodel'` in `deploy_ofnet_piod.py` and then run `python deploy_ofnet_piod.py` to get the results on PIOD testing dataset. For comparation, you can also download our trained model from [here](https://pan.baidu.com/s/1FZJOZCLXysv1krcR3DEvqg). (code: y4b6). The testing results are available at [here](https://pan.baidu.com/s/1X9tJHOfVhG3K_W1HyOsnrQ&shfl=shareset). (code: 85ih).
 
 
 #### BSDS ownership
-For training OFNet on BSDS ownership, you can refer the manner as same as PIOD dataset above.
+For training OFNet on BSDS ownership, you can refer the manner as same as PIOD dataset above. The testing results are available at [here](https://pan.baidu.com/s/1uZDKiu2rgBMGIDgkqaYB0g&shfl=shareset). (code: xj8q).
 
 
 ## Evaluation
